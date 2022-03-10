@@ -5,5 +5,4 @@ statistics
 matplotlib
 seaborn
 LinearRegression
-mean_squared_error
 r2_score
