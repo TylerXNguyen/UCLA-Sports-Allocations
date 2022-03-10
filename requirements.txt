@@ -1,10 +1,10 @@
 pandas
 sub
-Decimal
+decimal
 math
 numpy
 statistics
-matplotlib.pyplot
+matplotlib
 seaborn
 LinearRegression
 mean_squared_error
