@@ -23,7 +23,7 @@ requirements.txt contains the packages and libraries necessary for the project a
 
 ## Interactive Notebook
 
-To get an interactive notebook click here: 
+To get an interactive notebook click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TylerXNguyen/UCLA-Sports-Allocations/HEAD)
 
 ## The Blog Site
 
