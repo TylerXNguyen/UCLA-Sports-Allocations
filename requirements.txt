@@ -1,10 +1,11 @@
 pandas
-re
-decimal
+sub
+Decimal
 math
 numpy
 statistics
 matplotlib.pyplot
 seaborn
-sklearn.linear_model
-sklearn.metrics
+LinearRegression
+mean_squared_error
+r2_score
