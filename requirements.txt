@@ -5,4 +5,3 @@ statistics
 matplotlib
 seaborn
 LinearRegression
-r2_score
