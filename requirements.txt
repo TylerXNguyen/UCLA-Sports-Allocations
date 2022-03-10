@@ -1,6 +1,5 @@
 pandas
 sub
-decimal
 math
 numpy
 statistics
