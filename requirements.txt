@@ -5,3 +5,4 @@ statistics
 matplotlib
 seaborn
 LinearRegression
+sklearn
