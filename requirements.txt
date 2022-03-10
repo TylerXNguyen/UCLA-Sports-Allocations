@@ -1,0 +1,10 @@
+pandas
+re
+decimal
+math
+numpy
+statistics
+matplotlib.pyplot
+seaborn
+sklearn.linear_model
+sklearn.metrics
