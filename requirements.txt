@@ -1,6 +1,5 @@
 pandas
 sub
-math
 numpy
 statistics
 matplotlib
